@@ -23,7 +23,7 @@ function situacao($resultadoMedia) {
 }
 
 $valor = 7;
-function dobrar(&$valor){
+function dobrar($valor){
     $valor *= 2;
 }
 $situacao = situacao($resultadoMedia);
