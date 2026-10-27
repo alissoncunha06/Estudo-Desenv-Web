@@ -30,4 +30,6 @@ $situacao = situacao($resultadoMedia);
 echo "Media: $resultadoMedia - $situacao<br>";
 dobrar($valor);
 echo $valor;
+
+
 ?>
